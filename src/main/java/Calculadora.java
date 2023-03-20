@@ -10,7 +10,7 @@ public class Calculadora {
         num1 = input.nextInt();
         System.out.println("Ingrese el segundo número: ");
         num2 = input.nextInt();
-        System.out.println("Ingrese la operación a realizar (+, -, *, /): ");
+        System.out.println("Ingrese la siguente operación a realizar (+, -, *, /): ");
         operacion = input.next().charAt(0);
 
         switch (operacion) {
